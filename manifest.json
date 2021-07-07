@@ -1,0 +1,10 @@
+{
+    "name": "World count",
+    "version": "1.0",
+    "description": "Counts words on website",
+    "permissions": ["activeTab", "declarativeContent", "<all_urls>"],
+    "browser_action": {
+      "default_popup": "index.html"
+    },
+    "manifest_version": 2
+  }
